@@ -6,5 +6,9 @@ second_number = 7
 sum = first_number + second_number
 
 # Subtraction
-
 difference = first_number - second_number
+
+# Multiplication
+product = first_number * second_number
+
+# Division
